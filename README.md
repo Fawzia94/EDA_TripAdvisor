@@ -1,2 +1,2 @@
-# EDA_TripAdvisor
-predictive-analytics
+# MVP_TripAdvisor
+
