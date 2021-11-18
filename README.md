@@ -1,5 +1,5 @@
-# MVP_TripAdvisor
-
+# TripAdvisor DataSet Analysis
+# MVP
 The goal of this project is to know how to plan your trip in appropriate way, by knowing the good review on the Hotels. Also, you can explore what makes a great hotel and maybe even use this model in your travels! 
 
  ![Rating](https://user-images.githubusercontent.com/93079353/142282742-806b0c2d-28fe-48b1-a0b8-ab40bd77f97b.png)
