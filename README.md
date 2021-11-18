@@ -8,5 +8,4 @@ The goal of this project is to know how to plan your trip in appropriate way, by
 To start exploring this goal, I used a categorical plot with more than one feature to describe World wide Hotels Rating .
 
 The figure describe the Worldwide Hotel Rating. Also showing which continent in top rated Hotels.
-
 This result show that Europe has the top Hotel Rating, then Asia, Africa and South Paciffic.
