@@ -1,7 +1,7 @@
 # Abstract
 
 The goal of this project was to know Hotel rating around the world in order to help plan your trip in Perfect way.
-I worked with data provided by TripAdvisor last updated on (2020-08-06), Which has a lot of features to do analysis by EDA 
+I worked with data provided by TripAdvisor last updated on (2020-08-06), Which has a lot of features to do analysis by Exploratory Data Analysis EDA  
 to explore a great hotel and how to catch the good price! 
 
 # Design
