@@ -25,7 +25,7 @@ The TripAdvisor dataset contains a few feature include Hotel name, Price, Contin
 
 # Tools
 
-- python Jupyter Notebook
+- Python Jupyter Notebook
 - Numpy and Pandas for data manipulation
 - Matplotlib and Seaborn for plotting
 
