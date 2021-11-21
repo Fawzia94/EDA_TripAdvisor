@@ -14,7 +14,8 @@ The TripAdvisor dataset contains a few feature include Hotel name, Price, Contin
 
 - Sample Size: last updated on (2021-08-06)
 - Raws:59,707 rows
-- Columns: 14 columns, which are Hotel name, Price, Continrnt name, Country and city name, Rating and Reviews count.
+- Columns: 14 columns, which are Hotel name, Price, Continrnt name, Country and city name, Rating and Reviews count and Info 1 to 7 which is Extra info 
+  listed (Wifi, offers, hotel facilities...)
 
 # Algorithms
 
