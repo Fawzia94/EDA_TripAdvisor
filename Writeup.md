@@ -11,7 +11,7 @@ This project dataset was provided by Kaggle, I use this data to achive a good in
 # Data
 
 The TripAdvisor dataset contains a few feature include Hotel name, Price, Continrnt name, Country and city name, Rating and Reviews count.
-- Scope
+
 - Sample Size: last updated on (2021-08-06)
 - Raws:59,707 rows
 - Columns: 14 columns, which are Hotel name, Price, Continrnt name, Country and city name, Rating and Reviews count.
