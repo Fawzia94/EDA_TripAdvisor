@@ -1,4 +1,4 @@
-# TripAdvisor DataSet Analysis 
+# TripAdvisor Dataset Analysis 
 
 # MVP
 
